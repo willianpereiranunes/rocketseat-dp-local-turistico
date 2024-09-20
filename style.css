@@ -13,15 +13,46 @@ body {
 
 #pagina {
     box-sizing: border-box;
-    width: 800px;
-    padding: 24px;
+    width: 1120px;
+    padding: 0px;
     margin: 88px auto 28px;
 
 }
 
-.headline { color: #E1624F; font-size: 16px; font-weight: bold;}
+.headline { color: #E1624F; font-size: 16px; font-weight: bold; text-transform:uppercase;}
+.intro {margin: 64px 0 64px 0; }
 
-p { font-size:16px;}
+p { font-size:16px; margin-top: 5px; color:#333333; font-weight: 400;}
 h1 {font-size: 36px; font-weight: bold;}
 h2 {font-size: 32px; font-weight: bold;}
 h3 {font-size: 28px; font-weight: bold;}
+
+.img-destino { max-width: 1120px; border-radius: 28px; margin-top: 44px; margin: 24px 0 24px 0; }
+.subtitle { font-size: 16px; font-style: italic; text-align:center;color:#333333}
+.txtsecundario { color:#333333; font-weight: bold ;}
+.center { text-align: center;}
+hr { margin: 40px 0 40px 0px; border: 1px solid #D9D9D9;}
+
+ul { 
+    padding-left: 24px;
+}
+
+li {font-weight: bold;}
+
+.casais { color: red}
+.familias { color: #E5245E;}
+.orcamento { color: #E95E10;}
+.historia { color: #0C51A7;}
+
+.margem48 { margin-bottom: 48px;}
+
+footer { 
+    color: #333333;
+    text-align: center;
+    padding-bottom: 48px;
+    font-family: "alice", serif;
+    margin-top: 65px;
+}
+
+footer img { vertical-align: middle;
+}
