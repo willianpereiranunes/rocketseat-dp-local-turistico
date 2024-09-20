@@ -1,0 +1,27 @@
+* { 
+    margin:0;
+    padding: 0;
+}
+:root{
+    font-family: "Open Sans", serif;
+    color: #1B1B1B;
+}
+body { 
+    background-color: #F5F4F0;
+
+}
+
+#pagina {
+    box-sizing: border-box;
+    width: 800px;
+    padding: 24px;
+    margin: 88px auto 28px;
+
+}
+
+.headline { color: #E1624F; font-size: 16px; font-weight: bold;}
+
+p { font-size:16px;}
+h1 {font-size: 36px; font-weight: bold;}
+h2 {font-size: 32px; font-weight: bold;}
+h3 {font-size: 28px; font-weight: bold;}
